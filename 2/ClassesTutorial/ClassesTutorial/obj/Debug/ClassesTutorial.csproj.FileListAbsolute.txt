@@ -1,0 +1,6 @@
+D:\Facultate\Materat\MVC\Laboratoare\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+D:\Facultate\Materat\MVC\Laboratoare\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe
+D:\Facultate\Materat\MVC\Laboratoare\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.pdb
+D:\Facultate\Materat\MVC\Laboratoare\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.csprojResolveAssemblyReference.cache
+D:\Facultate\Materat\MVC\Laboratoare\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.exe
+D:\Facultate\Materat\MVC\Laboratoare\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.pdb
